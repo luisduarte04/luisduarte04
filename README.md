@@ -10,7 +10,7 @@ Scrum,
 Banco de dados Oracle,
 Express,
 Git e GitHub, 
-Suporte Técnico,
+Suporte Técnico.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql,ts,nodejs)](https://skillicons.dev)
 
